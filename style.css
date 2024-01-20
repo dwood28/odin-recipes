@@ -1,16 +1,5 @@
-#index-ul {
+.index-ul {
    color: white;
    background-color: blue;
    font: bold;
-}
-
-.header-lasagna {
-    color: black;
-    font-weight: bolder;
-    font-family: 'Times New Roman', Times, serif;
-}
-
-body {
-    background-color: grey;
-    text-align: right;
 }
