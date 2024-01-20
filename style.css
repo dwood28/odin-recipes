@@ -1,7 +1,16 @@
-h1 {
+#index-ul {
+   color: white;
+   background-color: blue;
+   font: bold;
+}
+
+.header-lasagna {
     color: black;
     font-weight: bolder;
-    background-color: white;
-    text-align: center;
     font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: grey;
+    text-align: right;
 }
