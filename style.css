@@ -1,5 +1,11 @@
-.index-ul {
+* {
+   outline: 2px solid blue;
+}
+button {
+   padding: 12px;
+   margin: 8px;
+   background-color: black;
    color: white;
-   background-color: blue;
-   font: bold;
+   font-weight: bold;
+   border-radius: 20px;
 }
