@@ -1,6 +1,11 @@
-* {
+/** {
    outline: 2px solid blue;
 }
+body {
+   display: block;
+   
+}*/
+
 button {
    padding: 12px;
    margin: 8px;
@@ -8,4 +13,43 @@ button {
    color: white;
    font-weight: bold;
    border-radius: 20px;
+   font-size: large;
+   font-family: 'Courier New', Courier, monospace;
+}
+button:hover {
+   background-color: white;
+   color: black;
+}
+.recipe-list {
+   display: inline-flex;
+   background-color: white;
+   text-align: center;
+}
+
+.odin-container {
+   background-color: gray;
+   color: white;
+   padding: 30px;
+   margin-bottom: 30px;
+   border-radius: 500px;
+   text-align: center;
+   font-family:'Times New Roman', Times, serif
+}
+.nav-div {
+   text-align: center;
+}
+.btn-1 {
+   background-color: red;
+   margin: 20px;
+   padding: 20px;
+}
+.btn-2 {
+  background-color: green;
+  margin: 20px;
+  padding: 20px;
+}
+.btn-3 {
+   background-color: blue;
+   margin: 20px;
+   padding: 20px;
 }
